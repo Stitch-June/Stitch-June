@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <a href="https://github.com/gaobinzhan"><img src="https://komarev.com/ghpvc/?username=gaobinzhan" alt="gaobinzhan" /></a>
 
 - 该用户谢绝使用百度搜寻网络。
 - 此用户对现有中国教育制度表示强烈不满。
